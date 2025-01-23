@@ -1,3 +1,0 @@
-class Logger
-  # TODO
-end
